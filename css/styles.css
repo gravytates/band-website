@@ -1,0 +1,13 @@
+img.banner {
+  width: 100%;
+  height: 300px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+.shows {
+  float: left;
+  background-color: teal;
+}
